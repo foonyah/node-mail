@@ -9,7 +9,7 @@
   },
   "contributors": [],
   "repository": {
-    "url": "https://github.com/foonyah/node-mail",
+    "url": "https://github.com/foonyah/talent-smtpmailsender-mail",
     "type": "git"
   },
   "dependencies": {
