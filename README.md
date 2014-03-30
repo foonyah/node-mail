@@ -1,4 +1,5 @@
-# Node Mail #
+### required by foonyah plugin "smtpmailsender" ###
+# Node Mail (+some fixture) #
 
 This SMTP client helps you send email safely and easily using
 Node.JS. It supports TLS and auth-login so you can send through
@@ -9,7 +10,7 @@ injection attacks.
 
 Use NPM to install:
 
-    npm install mail
+    npm install foonyah-smtpmailsender-mail
 
 ## Sending Mail ##
 

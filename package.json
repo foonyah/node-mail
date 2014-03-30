@@ -1,9 +1,17 @@
 {
-  "name": "mail",
+  "name": "foonyah-smtpmailsender-mail",
   "description": "This SMTP client library for Node.JS helps you send email safely and easily.",
-  "version": "0.2.3",
-  "author": "Ben Weaver <ben@orangesoda.net>",
+  "version": "0.1.0",
+  "author": {
+    "name": "Yoshitaka Sakamoto",
+    "url": "http://github.com/ystskm",
+    "email": "sakamoto@liberty-technology.biz"
+  },
   "contributors": [],
+  "repository": {
+    "url": "https://github.com/foonyah/node-mail",
+    "type": "git"
+  },
   "dependencies": {
     "reparse": ">= 0.1.2"
   },
